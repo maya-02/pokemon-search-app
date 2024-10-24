@@ -43,7 +43,7 @@
     flex-direction: column;
     align-items: center;
     background-color: var(--light-grey);
-    color: var(--purple);
+    color: var(--black);
     overflow-x: hidden;
   }
   
@@ -61,6 +61,11 @@
     z-index: 1000;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
+
+  /*Pokemon name*/
+  h3{
+    color:var(--purple);
+  }
   
   /* Main Container */
   .main-container {
@@ -75,6 +80,7 @@
     margin-top: 20px; /* Adds a gap between header and content */
 
   }
+
   
   /* Input and Button */
   .input-button-container {
