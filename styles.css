@@ -43,7 +43,7 @@
     flex-direction: column;
     align-items: center;
     background-color: var(--light-grey);
-    color: var(--black);
+    color: var(--purple);
     overflow-x: hidden;
   }
   
