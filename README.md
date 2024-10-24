@@ -28,7 +28,7 @@ The **Pokémon Search App** is a simple and intuitive web application that allow
 
 ## How to Use
 
-1. Access the app through the **[GitHub Pages link](your-github-pages-link-here)**.
+1. Access the app through the **[https://maya-02.github.io/pokemon-search-app/]**.
 2. Enter the name or ID of a Pokémon into the search bar (e.g., "Pikachu", "25").
 3. Click the **Search** button.
 4. The app will fetch and display the Pokémon’s details, including:
