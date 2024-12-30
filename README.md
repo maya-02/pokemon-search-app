@@ -1,8 +1,3 @@
-# pokemon-search-app
-
-Got it! Here's the updated **README** with the "How to Use" section mentioning the GitHub Pages link:
-
----
 
 # Pokémon Search App
 
